@@ -817,3 +817,5 @@
         };
     }
 })();
+
+export default 'googlechart';
