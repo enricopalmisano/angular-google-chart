@@ -818,4 +818,4 @@
     }
 })();
 
-export default 'googlechart';
+module.exports='googlechart';
