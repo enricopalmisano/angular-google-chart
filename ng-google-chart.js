@@ -817,3 +817,5 @@
         };
     }
 })();
+
+module.exports='googlechart';
